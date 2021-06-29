@@ -1,9 +1,9 @@
 const ratio = 2;
 const scrWidth = 2000;
 const scrHeight = scrWidth / ratio;
-let x = 0;
+let x = -2;
 let y = -0.5;
-let width = 4;
+let width = 6;
 let height = 2;
 
 function setup() {
