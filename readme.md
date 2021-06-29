@@ -1,0 +1,1 @@
+# Bifurcation diagram and approximating Feigenbaum's constant
